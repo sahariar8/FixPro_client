@@ -1,0 +1,130 @@
+ [
+      {
+      
+        "service_img": "https://i.postimg.cc/3wRL5CSv/istockphoto-998313080-612x612.jpg",
+        "service_name": "24/7 Doctor Support",
+        "service_provider_name": "Alook Health Care",
+        "provider_email":"sahariar8@gmail.com",
+        "provider_img": "https://i.postimg.cc/VL4dz85r/service2.jpg",
+        "service_price": 800,
+        "service_description": "Access round-the-clock medical care with our 24/7 Doctor Support service. Our team of experienced doctors is just a call or click away, providing immediate medical consultations, advice, and reassurance. Whether you have health concerns in the middle of the night, require prescription refills, or need urgent medical guidance, our service ensures you receive the care you need, when you need it.",
+        "service_type":"popular",
+        "service_location":"Bangladesh",
+        "provider_location": "Dhaka",
+        "provider_desc": "Alook Health Care is a leading healthcare provider in New York, offering a wide range of medical services to ensure the well-being of our patients. Our team of dedicated doctors and medical professionals is committed to providing high-quality care 24/7."
+      },
+      {
+     
+        "service_img": "https://i.postimg.cc/MKwQW5D4/service1.jpg",
+        "service_name": "Emergency Ambulance Service",
+        "service_provider_name": "sahariar",
+        "provider_email":"sahariar4745@gmail.com",
+        "provider_img": "https://i.postimg.cc/8z5Z6mRz/face3.jpg",
+        "service_price": 100,
+        "service_description": "When emergencies strike, trust our Emergency Ambulance Service to provide immediate, life-saving assistance. Our skilled team of paramedics and well-equipped ambulances ensure rapid response and safe transportation to medical facilities. We are available 24/7 to assist with accidents, cardiac events, respiratory distress, and other critical situations. Your safety is our priority.",
+        "service_type":"popular",
+        "service_location":"Dhaka",
+        "provider_location": "Anytown, USA",
+        "provider_desc": "SA Emergency Services is a dedicated team of paramedics and emergency medical professionals. We specialize in providing immediate assistance during emergencies, ensuring the safety and well-being of our patients."
+      },
+      {
+        
+        "service_img": "https://i.postimg.cc/KcDY52Pq/blood-donation.jpg",
+        "service_name": "Emergency Blood Support",
+        "service_provider_name": "Blood Donors Network",
+        "provider_email":"sahariar4745@gmail.com",
+        "provider_img": "https://i.postimg.cc/QMFYRJCy/face5.jpg",
+        "service_price": "Free",
+        "service_description": "In critical moments, access to blood can be life-saving. Our Emergency Blood Support service connects individuals in need of blood with compassionate donors who are ready to help. We maintain an extensive database of willing blood donors from diverse backgrounds and blood types. Whether it's for surgeries, accidents, or medical conditions, we're here to facilitate timely access to vital blood transfusions.",
+        "service_type":"popular",
+        "service_location":"Dhaka",
+        "provider_location": "National",
+        "provider_desc": "Blood Donors Network is a nationwide organization dedicated to facilitating blood donations in critical situations. We connect patients in need with willing donors, ensuring a stable supply of life-saving blood."
+      },
+      {
+       
+        "service_img": "https://i.postimg.cc/8cpNY7Ry/download-16.jpg",
+        "service_name": "Healthy Food for Patients",
+        "service_provider_name": "NourishWell Meals",
+        "provider_email":"sahariaralam8@gmail.com",
+        "provider_img": "https://i.postimg.cc/yYrFw4R7/face4.jpg",
+        "service_price": 200,
+        "service_description": "Eating right is essential for recovery and well-being. Our Healthy Food for Patients service offers tailored meal plans based on your medical reports, dietary preferences, and health goals. We prioritize fresh, nutrient-rich ingredients to promote a balanced and health-centric diet for patients undergoing medical treatment or managing chronic conditions.",
+        "service_type":"popular",
+        "service_location":"Dhaka",
+        "provider_location": "Regional",
+        "provider_desc": "NourishWell Meals is a regional provider of nutritious meals designed to support patients' health and well-being. We specialize in creating customized meal plans to meet the unique dietary needs of our patients."
+      },
+      {
+       
+        "service_img": "https://i.postimg.cc/T3DMCj8d/cradle-home-sample-collection-jpg.webp",
+        "service_name": "Sample Collection from Home",
+        "service_provider_name": "LabEase Diagnostics",
+        "provider_email":"sahariar8@gmail.com",
+        "provider_img": "https://i.postimg.cc/vHDn7qNk/face2.jpg",
+        "service_price": 400,
+        "service_description": "Eliminate the hassle of visiting a diagnostic center with our Sample Collection from Home service. LabEase Diagnostics brings the convenience of home-based sample collection for various diagnostic tests and health screenings. Our certified phlebotomists ensure a comfortable and safe experience, all from the comfort of your own home.",
+        "service_type":"popular",
+        "service_location":"Dhaka",
+        "provider_location": "Local",
+        "provider_desc": "LabEase Diagnostics is a local provider specializing in convenient home-based sample collection for a wide range of diagnostic tests and health screenings."
+      },
+      {
+        
+        "service_img": "https://i.postimg.cc/g0H7TNgW/download-17.jpg",
+        "service_name": "Caregiver Service",
+        "service_provider_name": "CaringHands Caregivers",
+        "provider_email":"sahariaralam8@gmail.com",
+        "provider_img": "https://i.postimg.cc/wBYsp6jY/face1.jpg",
+        "service_price": 500,
+        "service_description": "For individuals in need of care and companionship, our Caregiver Service provides compassionate support. Our experienced caregivers offer personalized care and assistance, promoting independence and enhancing the quality of life for those facing health challenges. From assistance with daily tasks to emotional support, our caregivers are here to provide holistic care.",
+        "service_type":"popular",
+        "service_location":"Dhaka",
+        "provider_location": "Local",
+        "provider_desc": "CaringHands Caregivers is a local provider dedicated to offering compassionate care and support to individuals in need. We focus on enhancing the quality of life for our patients by providing personalized assistance and companionship."
+      },
+      {
+        
+        "service_img": "https://i.postimg.cc/FH5j9bT6/diet-counselling.png",
+        "service_name": "Nutrition and Diet Counseling",
+        "service_provider_name": "Alook",
+        "provider_email":"sahariar8@gmail.com",
+        "provider_img": "https://i.postimg.cc/wBYsp6jY/face1.jpg",
+        "service_price": 500,
+        "service_description": "Improve your health and dietary habits with NutriWellness Dietitians. Our registered dietitians offer personalized nutrition counseling and meal planning services. Whether you're looking to manage a medical condition or optimize your nutrition, we provide expert guidance.",
+        "service_type":"regular",
+        "service_location":"Bangladesh",
+        "provider_location": "Local",
+        "provider_desc": "NutriWellness Dietitians is a local provider of personalized nutrition counseling and meal planning services. Our registered dietitians are committed to helping individuals improve their health through better dietary habits."
+      },
+      {
+        
+        "service_img": "https://i.postimg.cc/xjGQxnWb/download-18.jpg",
+        "service_name": "Telemedicine Consultations",
+        "service_provider_name": "fixpro",
+        "provider_email":"sahariar4745@gmail.com",
+        "provider_img": "https://i.postimg.cc/VL4dz85r/service2.jpg",
+        "service_price": 500,
+        "service_description": "For individuals in need of care and companionship, our Caregiver Service provides compassionate support. Our experienced caregivers offer personalized care and assistance, promoting independence and enhancing the quality of life for those facing health challenges. From assistance with daily tasks to emotional support, our caregivers are here to provide holistic care.",
+        "service_type":"regular",
+        "service_location":"Bangladesh",
+        "provider_location": "National",
+        "provider_desc": "TeleHealthPro is a national provider of telemedicine services, offering immediate access to medical care from the convenience of your home. Our team of experienced doctors is committed to delivering efficient and high-quality healthcare services."
+      },
+      {
+        
+        "service_img": "https://i.postimg.cc/hP5KxMkC/senior-man-nursing-home-doing-physical-therapy-senior-men-nursing-home-doing-physical-therapy-help-n.webp",
+        "service_name": "Home Therapy Service",
+        "service_provider_name": "fixpro",
+        "provider_email":"jim@gmail.com",
+        "provider_img": "https://i.postimg.cc/vHDn7qNk/face2.jpg",
+        "service_price": 500,
+        "service_description": "TheraCare at Home offers professional therapy sessions conducted in the comfort of your own home. Their team of licensed therapists specializes in various therapies, including physical therapy, occupational therapy, and speech therapy. The goal is to bring the expertise and quality of therapy typically found in clinical settings directly to your doorstep.",
+        "service_type":"regular",
+        "service_location":"Dhaka",
+        "provider_location": "Regional",
+        "provider_desc": "TheraCare at Home is a regional provider specializing in in-home therapy services. Our team of licensed therapists is dedicated to bringing the expertise of clinical therapy to the comfort of your home, promoting convenience and accessibility."
+      }
+]
+  
+
